@@ -15,7 +15,7 @@ Designing APIs and data flows, then shipping the interface that makes them usefu
 <a href="https://web.facebook.com/NDTYtunguyen">
   <img src="https://img.shields.io/badge/Facebook-NDTYtunguyen-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<img src="https://img.shields.io/badge/Vinh%20Long-Vietnam-0E7490?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/An%20Giang-Vietnam-0E7490?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
 
